@@ -1,0 +1,14 @@
+/Users/json/OneDrive/MyProjects/nodaserializeation/bin/Debug/netcoreapp2.1/nodaserializeation.deps.json
+/Users/json/OneDrive/MyProjects/nodaserializeation/bin/Debug/netcoreapp2.1/nodaserializeation.runtimeconfig.json
+/Users/json/OneDrive/MyProjects/nodaserializeation/bin/Debug/netcoreapp2.1/nodaserializeation.runtimeconfig.dev.json
+/Users/json/OneDrive/MyProjects/nodaserializeation/bin/Debug/netcoreapp2.1/nodaserializeation.dll
+/Users/json/OneDrive/MyProjects/nodaserializeation/bin/Debug/netcoreapp2.1/nodaserializeation.pdb
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.csprojAssemblyReference.cache
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.csproj.CoreCompileInputs.cache
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.RazorAssemblyInfo.cache
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.RazorAssemblyInfo.cs
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.AssemblyInfoInputs.cache
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.AssemblyInfo.cs
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.RazorTargetAssemblyInfo.cache
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.dll
+/Users/json/OneDrive/MyProjects/nodaserializeation/obj/Debug/netcoreapp2.1/nodaserializeation.pdb
