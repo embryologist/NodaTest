@@ -18,10 +18,13 @@ namespace nodaserializeation.Controllers {
             await Task.Delay (10);
             NodaModel nodaModel = new NodaModel ();
             ApiResource apiResource = new ApiResource ();
-            nodaModel.NodaLocalDate = new LocalDate (2018, 06, 06);
-            apiResource.NodaLocalDate = nodaModel.NodaLocalDate.ToString ();
+            Response res = new Response ();
 
-            return Ok (apiResource);
+            res.NodaLocalDate = nodaModel.NodaLocalDate = new LocalDate (2018, 06, 06);
+
+            res.NodaLocalDateString = apiResource.NodaLocalDate = nodaModel.NodaLocalDate.ToString ();
+
+            return Ok (res);
         }
 
         // GET api/values/5
